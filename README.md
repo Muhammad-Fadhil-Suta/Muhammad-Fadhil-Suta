@@ -1,16 +1,25 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-<!--
-**Muhammad-Fadhil-Suta/Muhammad-Fadhil-Suta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Muhammad Fadhil Suta</h1>
+<p align="center">
+  👨‍💻 Software Engineer | 🤖 AI & Machine Learning Enthusiast | 📊 Data Science Explorer
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF7F&center=true&lines=Building+Intelligent+Systems;Exploring+AI+and+Machine+Learning;Coding+with+Passion+and+Precision" />
+</p>
+
+<br clear="both">
+
+
+
+
+
+</p>
+<h2 id="tech-stack">Tech Stack<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"></h2>
+
+
+</a> 
+<h2 id="github-stats">Github Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"></h2>
