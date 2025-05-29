@@ -31,3 +31,8 @@
 </picture>
 
 ###
+<div align="center">
+  <a href="https://open.spotify.com/user/Muhammadfadhilsuta">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Muhammadfadhilsuta&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
